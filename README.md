@@ -13,7 +13,7 @@
 </ul>
 
 <h2>🎬 Gif do site</h2>
-<!-- <img src="./github/gif-blog.gif" alt="Gif do site"> -->
+<img src="./github/gif-onepage.gif" alt="Gif do site">
 
 <h2>🔗 Link</h2>
 <p><a href="" target="_blank">Clique aqui</a></p>
