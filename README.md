@@ -1,24 +1,19 @@
-# Flappy Bird
+# One Page - Codelândia
 
 <h2>📝 Sobre</h2>
-<p>Projeto do curso Web Moderno do professor Leonardo Moura Leitão na Udemy.</p>
+<p>Projeto desenvolvido a partir do desafio 3 proposto pelo Iuri Silva (iuricode) na comunidade Codelândia do Discord.</p>
  
 <h2>🎯 Objetivo</h2>
-<p>O objetivo era fazer um jogo semelhante ao Flappy Bird usando funções JS e outros elementos estudados durante o curso.</p>
+<p>O objetivo era fazer uma one page com cards responsivos e um formulário para contato.</p>
 
 <h2>💻 Tecnologias</h2>
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript</li>
 </ul>
 
-<h2>🎮 Como jogar</h2>
-<p>Canos verdes aparecerão em variadas alturas e seu objetivo é desviar deles pressionando o teclado para o pássaro subir, pois ele é constantemente puxado para baixo e ao soltar a tecla ele volta a cair. É possível pressionar rapidamente para subir mais, porém cuidado para não perder o controle. Cada vez que passar pelos canos, ganha 1 ponto.</p>
-<p>Para reiniciar o jogo basta atualizar a página.</p>
-
 <h2>🎬 Gif do site</h2>
-<img src="./github/gif-flappybird.gif" alt="Gif do site">
+<img src="./github/gif-onepage.gif" alt="Gif do site">
 
 <h2>🔗 Link</h2>
 <p><a href="" target="_blank">Clique aqui</a></p>
