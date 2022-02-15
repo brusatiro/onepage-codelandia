@@ -16,7 +16,7 @@
 <img src="./github/gif-onepage.gif" alt="Gif do site">
 
 <h2>🔗 Link</h2>
-<p><a href="" target="_blank">Clique aqui</a></p>
+<p><a href="https://naughty-chandrasekhar-5a0f44.netlify.app/" target="_blank">Clique aqui</a></p>
 
 <h2>📧 Entre em contato:</h2>
   <p><a href="mailto:brunasatiro@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a></p>
